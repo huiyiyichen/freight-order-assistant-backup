@@ -1,0 +1,6 @@
+# GitHub 当前版本只保留正式版、体验版程序和说明。
+*
+!.gitignore
+!README.md
+!订单填写助手-Win10.exe
+!【无需账号】订单填写助手-体验版.exe
